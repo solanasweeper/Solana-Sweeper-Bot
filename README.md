@@ -1,9 +1,14 @@
 # Solana-Sweeper-Bot
 A Sweeper Bot For Solana Blockchain - Receive Instant Notification on Telegram When Wallet Has Been Swept
 
+# Demo
+[![Watch the video]](https://drive.google.com/file/d/1aXLQ6COcL3UqcB9qXbByryeAawsYabFH/preview)
+
 # How do Sweepers Work? 
 
-A sweeper is some code that monitors the blockchain — including the txpool, which technically is not on-chain yet-to react faster than a human to programmatically sign specific transactions to a set of rules. How Script Works? 
+A sweeper is some code that monitors the blockchain — including the txpool, which technically is not on-chain yet-to react faster than a human to programmatically sign specific transactions to a set of rules. 
+
+# How Script Works? 
 
 This script listen incoming and pending transactions on the solana mempool for the victim solana address. It will automatically calculate lamport and transfer the entire available balance to your destinstion wallet.
 
@@ -13,5 +18,15 @@ This script listen incoming and pending transactions on the solana mempool for t
 - 3. Secured
 - 4. Telegram Notification: Receive instant notification on TG when wallet has been swept
 - 5. Lightening speed sweeper. Sweeps within milliseconds
+ 
+# WALLETS SUPPORTED
+- ✅ Solflare
+- ✅ Phantom
+- ✅ Others
+
+# KEYS SUPPORTED
+- ✅ Seed Phrase
+- ✅ Private Key(Base 58 encoded)
+- ✅ Private Key (Binary Format)
 
 Join our group: t.me/solanasweeperbot
