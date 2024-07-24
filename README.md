@@ -2,7 +2,7 @@
 A Sweeper Bot For Solana Blockchain - Receive Instant Notification on Telegram When Wallet Has Been Swept
 
 # Demo
-[![Watch the video](https://solanatradingbots.com/wp-content/uploads/2024/03/solana-trading-bots-logo-shadow-1.png)](https://drive.google.com/file/d/1aXLQ6COcL3UqcB9qXbByryeAawsYabFH/preview)
+[![Watch the video]()](https://drive.google.com/file/d/1aXLQ6COcL3UqcB9qXbByryeAawsYabFH/preview)
 
 # How do Sweepers Work? 
 
