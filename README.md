@@ -29,4 +29,6 @@ This script listen incoming and pending transactions on the solana mempool for t
 - ✅ Private Key(Base 58 encoded)
 - ✅ Private Key (Binary Format)
 
-Join our group: t.me/solanasweeperbot
+We have moved From Telegram to SimpleX.
+Contact us on Simple X (https://simplex.chat/) using our SimpleX link below
+https://tinyurl.com/cryptosift
